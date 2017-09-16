@@ -7,6 +7,6 @@ Address provided above also includes a data user's guide and data dictionary exp
 
 ## Jupyter Notebooks:
 
-analysis - data cleaning and basic exploratory data analysis of the 2012 Commodity Flow Survey dataset.
+analysis - data cleaning and basic exploratory data analysis of the 2012 Commodity Flow Survey dataset. </br>
 clustering - clustering analysis of truck deliveries 300 miles or less in routed distance.
 
